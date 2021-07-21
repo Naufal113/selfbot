@@ -123,5 +123,5 @@ Cara menampilkan menu : zhelp/zmenu
 
 
 ## NOTE! 
-* Jika ada bug hubungi saya[`WhatsApp`](https://api.whatsapp.com/send?phone=6285793432434) 
+* Jika ada bug hubungi saya[`WhatsApp`](https://api.whatsapp.com/send?phone=6285157160906) 
 * Jangan lupa kasih bintang :) 
